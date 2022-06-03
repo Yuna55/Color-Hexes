@@ -7,7 +7,7 @@ https://htmlcolorcodes.com/color-picker/
 
 COLOR	NAME	HEX CODE	RGB CODE
 
-Blue
+Blue:
 
 Aqua	#00FFFF	rgb(0, 255, 255)
 Azure	#F0FFFF	rgb(240, 255, 255)
