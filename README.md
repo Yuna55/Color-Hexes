@@ -5,8 +5,10 @@ https://htmlcolorcodes.com/
 Color Picker:
 https://htmlcolorcodes.com/color-picker/
 
-BLUE:
 COLOR	NAME	HEX CODE	RGB CODE
+
+Blue
+
 Aqua	#00FFFF	rgb(0, 255, 255)
 Azure	#F0FFFF	rgb(240, 255, 255)
 Baby Blue	#89CFF0	rgb(137, 207, 240)
@@ -46,7 +48,8 @@ Verdigris	#40B5AD	rgb(64, 181, 173)
 Zaffre	#0818A8	rgb(8, 24, 168)
 
 
-RED:
+Red:
+
 Blood Red	#880808	rgb(136, 8, 8)
 Brick Red	#AA4A44	rgb(170, 74, 68)
 Bright Red	#EE4B2B	rgb(238, 75, 43)
@@ -100,6 +103,7 @@ Wine	#722F37	rgb(114, 47, 55)
 
 
 Orange:
+
 Amber	#FFBF00	rgb(255, 191, 0)
 Apricot	#FBCEB1	rgb(251, 206, 177)
 Bisque	#F2D2BD	rgb(242, 210, 189)
@@ -143,6 +147,7 @@ Terra Cotta	#E3735E	rgb(227, 115, 94)
 Yellow Orange	#FFAA33	rgb(255, 170, 51)
 
 Yellow:
+
 Almond	#EADDCA	rgb(234, 221, 202)
 Amber	#FFBF00	rgb(255, 191, 0)
 Apricot	#FBCEB1	rgb(251, 206, 177)
@@ -188,6 +193,7 @@ Yellow Orange	#FFAA33	rgb(255, 170, 51)
 
 
 Green:
+
 Aqua	#00FFFF	rgb(0, 255, 255)
 Aquamarine	#7FFFD4	rgb(127, 255, 212)
 Army Green	#454B1B	rgb(69, 75, 27)
@@ -237,6 +243,7 @@ Verdigris	#40B5AD	rgb(64, 181, 173)
 Viridian	#40826D	rgb(64, 130, 109)
 
 Purple:
+
 Amaranth	#9F2B68	rgb(159, 43, 104)
 Bright Purple	#BF40BF	rgb(191, 64, 191)
 Burgundy	#800020	rgb(128, 0, 32)
@@ -268,6 +275,7 @@ Wisteria	#BDB5D5	rgb(189, 181, 213)
 
 
 White:
+
 Alabaster	#EDEADE	rgb(237, 234, 222)
 Beige	#F5F5DC	rgb(245, 245, 220)
 Bone White	#F9F6EE	rgb(249, 246, 238)
@@ -287,6 +295,7 @@ White	#FFFFFF	rgb(255, 255, 255)
 
 
 Black:
+
 Black	#000000	rgb(0, 0, 0)
 Charcoal	#36454F	rgb(54, 69, 79)
 Dark Green	#023020	rgb(2, 48, 32)
@@ -298,6 +307,7 @@ Midnight Blue	#191970	rgb(25, 25, 112)
 Onyx	#353935	rgb(53, 57, 53)
 
 Brown:
+
 Almond	#EADDCA	rgb(234, 221, 202)
 Brass	#E1C16E	rgb(225, 193, 110)
 Bronze	#CD7F32	rgb(205, 127, 50)
@@ -345,6 +355,7 @@ Wheat	#F5DEB3	rgb(245, 222, 179)
 Wine	#722F37	rgb(114, 47, 55)
 
 Gray:
+
 Ash Gray	#B2BEB5	rgb(178, 190, 181)
 Blue Gray	#7393B3	rgb(115, 147, 179)
 Charcoal	#36454F	rgb(54, 69, 79)
@@ -362,6 +373,7 @@ Smoke	#848884	rgb(132, 136, 132)
 Steel Gray	#71797E	rgb(113, 121, 126)
 
 Pink:
+
 Amaranth	#9F2B68	rgb(159, 43, 104)
 Bisque	#F2D2BD	rgb(242, 210, 189)
 Cerise	#DE3163	rgb(222, 49, 99)
